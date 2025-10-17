@@ -13,7 +13,7 @@
 
 - ✉️ Reach me via Email: **noempang2@gmail.com**
 
-- 🏅Some of my noteable achivements are **WRG Thailand Championship 2025 (Silver Medal 🥈), ITCLASH68 (Placed 15th), Thailand Cyber Top Talent 2025 (62nd/518 Teams & 102nd/1319 Individually)**
+- 🏅Some of my noteable achivements are **WRG Thailand Championship 2025 (Silver Medal 🥈), ITCLASH68 (Placed 17th during Preliminary/15th during Finals), Thailand Cyber Top Talent 2025 (62nd/518 Teams & 102nd/1319 Individually)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
