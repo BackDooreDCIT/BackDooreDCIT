@@ -1,5 +1,5 @@
 <h1 align="center">Hey Coders 👋! I'm Parattakorn Boonprakob</h1>
-<h3 align="center">A High-Schooler from Thailand that took an interest in programming 🔥</h3>
+<h3 align="center">A High-Schooler from Thailand (🇹🇭) that took an interest in programming 🔥</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=backdooredcit&label=Profile%20views&color=0e75b6&style=flat" alt="backdooredcit" /> </p>
 
