@@ -7,7 +7,7 @@
 
 - 📖 I’m currently learning **Astro, Tailwind, React**
 
-- 📑 All of my projects are available at [https://github.com/BackDooreDCIT?tab=repositories](https://github.com/BackDooreDCIT?tab=repositories)
+- 📑 All of my projects are available [here](https://github.com/BackDooreDCIT?tab=repositories)
 
 - ❔ Ask me about all about **Python, Problem Solving**
 
