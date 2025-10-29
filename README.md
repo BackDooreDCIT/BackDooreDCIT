@@ -5,7 +5,7 @@
 
 - 💻 I’m currently working on [interactiveperiodictable](https://github.com/BackDooreDCIT/interactiveperiodictable)
 
-- 📖 I’m currently learning **Vue.js, Javascript**
+- 📖 I’m currently learning **on how to make Chrome extensions**
 
 - 📑 All of my projects are available [here](https://github.com/BackDooreDCIT?tab=repositories)
 
