@@ -5,7 +5,7 @@
 
 - 💻 I’m currently working on [deceithome](https://github.com/BackDooreDCIT/deceithome).
 
-- 📖 I’m currently learning **on UI/UX Designs**
+- 📖 I’m currently learning **how to make proper UI/UX Designs**
 
 - 📑 All of my projects are available [here](https://github.com/BackDooreDCIT?tab=repositories)
 
