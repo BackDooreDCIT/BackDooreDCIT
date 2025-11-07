@@ -31,3 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=backdooredcit&show_icons=true&locale=en&theme=transparent" alt="backdooredcit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=backdooredcit&" alt="backdooredcit" /></p>
+
+###### *"Rock bottom is the end of what wasn't true enough. Begin again and build something truer."*
+###### **-Glennon Doyle**
