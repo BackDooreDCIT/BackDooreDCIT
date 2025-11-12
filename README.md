@@ -32,5 +32,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=backdooredcit&" alt="backdooredcit" /></p>
 
-<h6 align="center">*"Rock bottom is the end of what wasn't true enough. Begin again and build something truer."*</h6> 
-<h6 align="center">**-Glennon Doyle**</h6>
+<h6 align="center" font-style="italic">"Rock bottom is the end of what wasn't true enough. Begin again and build something truer."</h6> 
+<h6 align="center" font-style="italic">-Glennon Doyle</h6>
