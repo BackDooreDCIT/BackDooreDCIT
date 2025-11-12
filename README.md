@@ -5,7 +5,7 @@
 
 - 💻 I’m currently working on [RWB-StudentReport](https://github.com/BackDooreDCIT/RWB-StudentReport).
 
-- 📖 I’m currently learning **how to make proper UI/UX Designs**
+- 📖 I’m currently learning **how to make proper UI/UX Designs** & **React**
 
 - 📑 All of my projects are available [here](https://github.com/BackDooreDCIT?tab=repositories)
 
@@ -32,5 +32,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=backdooredcit&" alt="backdooredcit" /></p>
 
-###### *"Rock bottom is the end of what wasn't true enough. Begin again and build something truer."*
-###### **-Glennon Doyle**
+<h6 align="center">*"Rock bottom is the end of what wasn't true enough. Begin again and build something truer."*</h6> 
+<h6 align="center">**-Glennon Doyle**</h6>
