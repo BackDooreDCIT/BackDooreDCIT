@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=backdooredcit&label=Profile%20views&color=0e75b6&style=flat" alt="backdooredcit" /> </p>
 
-- 💻 I’m currently working on [RWB-StudentReport](https://github.com/BackDooreDCIT/RWB-StudentReport).
+- 💻 I’m currently working on [deceithome](https://github.com/BackDooreDCIT/deceithome) and [RWB-StudentReport](https://github.com/BackDooreDCIT/RWB-StudentReport).
 
 - 📖 I’m currently learning **how to make proper UI/UX Designs** & **React**
 
