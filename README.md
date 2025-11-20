@@ -27,69 +27,14 @@
 <a href="https://www.youtube.com/c/@dece3t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dece3t" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools</h3>
+### Languages and Tools
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px;">
-
-  <div style="flex: 1; min-width: 250px;">
-    <h4>Programming Languages</h4>
-    <p>
-      <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
-    </p>
-
-    <h4>Frontend Development</h4>
-    <p>
-      <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
-    </p>
-
-    <h4>Backend Development</h4>
-    <p>
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/>
-    </p>
-
-    <h4>DevOps</h4>
-    <p>
-      <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/>
-    </p>
-  </div>
-
-  <div style="flex: 1; min-width: 250px;">
-    <h4>Frameworks</h4>
-    <p>
-      <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
-    </p>
-
-    <h4>Softwares</h4>
-    <p>
-      <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/>
-    </p>
-
-    <h4>Others</h4>
-    <p>
-      <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/>
-    </p>
-  </div>
-
-</div>
+| Category | Category |
+| --- | --- |
+| **Programming Languages**<br> ![c](https://skillicons.dev/icons?i=c) ![cpp](https://skillicons.dev/icons?i=cpp) ![js](https://skillicons.dev/icons?i=js) ![ts](https://skillicons.dev/icons?i=ts) ![php](https://skillicons.dev/icons?i=php) ![py](https://skillicons.dev/icons?i=py) | **Frameworks**<br> ![react](https://skillicons.dev/icons?i=react) ![django](https://skillicons.dev/icons?i=django) ![tailwind](https://skillicons.dev/icons?i=tailwind) ![nodejs](https://skillicons.dev/icons?i=nodejs) |
+| **Frontend Development**<br> ![html](https://skillicons.dev/icons?i=html) ![css](https://skillicons.dev/icons?i=css) ![js](https://skillicons.dev/icons?i=js) ![ts](https://skillicons.dev/icons?i=ts) ![react](https://skillicons.dev/icons?i=react) ![tailwind](https://skillicons.dev/icons?i=tailwind) | **Softwares**<br> ![blender](https://skillicons.dev/icons?i=blender) ![figma](https://skillicons.dev/icons?i=figma) ![photoshop](https://skillicons.dev/icons?i=photoshop) |
+| **Backend Development**<br> ![nodejs](https://skillicons.dev/icons?i=nodejs) ![php](https://skillicons.dev/icons?i=php) ![py](https://skillicons.dev/icons?i=py) ![django](https://skillicons.dev/icons?i=django) | **Others**<br> ![git](https://skillicons.dev/icons?i=git) ![arduino](https://skillicons.dev/icons?i=arduino) |
+| **DevOps**<br> ![gcp](https://skillicons.dev/icons?i=gcp) |  |
 
 
 
