@@ -28,7 +28,7 @@
 </p>
 
 ### Languages and Tools
-| Category | Category |
+| --- | --- |
 | --- | --- |
 | **Programming Languages**<br> ![c](https://skillicons.dev/icons?i=c) ![cpp](https://skillicons.dev/icons?i=cpp) ![js](https://skillicons.dev/icons?i=js)<br> ![ts](https://skillicons.dev/icons?i=ts) ![php](https://skillicons.dev/icons?i=php) ![py](https://skillicons.dev/icons?i=py) | **Frameworks**<br> ![django](https://skillicons.dev/icons?i=django) ![tailwind](https://skillicons.dev/icons?i=tailwind) |
 | **Frontend Development**<br> ![html](https://skillicons.dev/icons?i=html) ![css](https://skillicons.dev/icons?i=css) ![js](https://skillicons.dev/icons?i=js)<br> ![ts](https://skillicons.dev/icons?i=ts) ![react](https://skillicons.dev/icons?i=react) ![tailwind](https://skillicons.dev/icons?i=tailwind) | **Softwares**<br> ![blender](https://skillicons.dev/icons?i=blender) ![figma](https://skillicons.dev/icons?i=figma) ![photoshop](https://skillicons.dev/icons?i=photoshop) |
