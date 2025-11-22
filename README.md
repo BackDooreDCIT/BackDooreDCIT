@@ -28,12 +28,12 @@
 </p>
 
 ### Languages and Tools
-| --- | --- |
+| Core & Development | Framework & Software |
 | --- | --- |
 | **Programming Languages**<br> ![c](https://skillicons.dev/icons?i=c) ![cpp](https://skillicons.dev/icons?i=cpp) ![js](https://skillicons.dev/icons?i=js)<br> ![ts](https://skillicons.dev/icons?i=ts) ![php](https://skillicons.dev/icons?i=php) ![py](https://skillicons.dev/icons?i=py) | **Frameworks**<br> ![django](https://skillicons.dev/icons?i=django) ![tailwind](https://skillicons.dev/icons?i=tailwind) |
 | **Frontend Development**<br> ![html](https://skillicons.dev/icons?i=html) ![css](https://skillicons.dev/icons?i=css) ![js](https://skillicons.dev/icons?i=js)<br> ![ts](https://skillicons.dev/icons?i=ts) ![react](https://skillicons.dev/icons?i=react) ![tailwind](https://skillicons.dev/icons?i=tailwind) | **Softwares**<br> ![blender](https://skillicons.dev/icons?i=blender) ![figma](https://skillicons.dev/icons?i=figma) ![photoshop](https://skillicons.dev/icons?i=photoshop) |
 | **Backend Development**<br> ![nodejs](https://skillicons.dev/icons?i=nodejs) ![php](https://skillicons.dev/icons?i=php) ![py](https://skillicons.dev/icons?i=py) | **Others**<br> ![git](https://skillicons.dev/icons?i=git) ![arduino](https://skillicons.dev/icons?i=arduino) |
-| **DevOps**<br> ![gcp](https://skillicons.dev/icons?i=gcp) |  |
+|  | **DevOps**<br> ![gcp](https://skillicons.dev/icons?i=gcp) |
 
 
 
