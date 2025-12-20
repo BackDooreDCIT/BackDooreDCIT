@@ -37,7 +37,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=backdooredcit&show_icons=true&locale=en&layout=donut&theme=transparent" alt="backdooredcit" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=backdooredcit&langs_count=20&show_icons=true&locale=en&layout=compact&theme=transparent" alt="backdooredcit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=backdooredcit&show_icons=true&locale=en&theme=transparent" alt="backdooredcit" /></p>
 
