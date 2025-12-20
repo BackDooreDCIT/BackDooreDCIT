@@ -18,7 +18,7 @@
   - **WRG Thailand Championship 2025 (1st Runner-Up 🥈 & 3rd Runner-Up 🥉)**
   - **ITCLASH68 Coding Track (17th during Preliminary Round & 15th during Finals)**
   - **Thailand Cyber Top Talent 2025 (62nd out of 518 Teams & 102nd out of 1319 Individually)**
-  - **ToBeIT’69 KMITL (Onsite Camper, 1st Runner-Up in Hackathon 🥈)**
+  - **ToBeIT’69 KMITL (Onsite Camper, 1st Runner-Up in Hackathon 🥈, Popular Vote 🏆)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
