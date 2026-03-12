@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=backdooredcit&label=Profile%20views&color=0e75b6&style=flat" alt="backdooredcit" /> </p>
 
-- 💻 I’m currently working on [RWB-StudentReport](https://github.com/BackDooreDCIT/RWB-StudentReport).
+- 💻 I’m currently working on [DebugBuddy](https://github.com/Rurtt/DebugBuddy).
 
-- 📖 I’m currently learning **how to make proper UI/UX Designs** & **React**
+- 📖 I’m currently learning **Figma** & **React**
 
 - 📑 All of my projects are available [here](https://github.com/BackDooreDCIT?tab=repositories)
 
