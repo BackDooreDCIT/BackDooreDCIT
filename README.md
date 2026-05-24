@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=backdooredcit&label=Profile%20views&color=0e75b6&style=flat" alt="backdooredcit" /> </p>
 
-- 💻 I’m currently working on [DebugBuddy](https://github.com/Rurtt/DebugBuddy).
+- 💻 I’m currently working on my studies.
 
-- 📖 I’m currently learning **Figma** & **React**
+- 📖 I’m currently relearning **Javascript**
 
 - 📑 All of my projects are available [here](https://github.com/BackDooreDCIT?tab=repositories)
 
-- ❔ Ask me about all about **Python, Problem Solving**
+- ❔ Ask me about all about **Python, Competitive Programming**
 
 - ✉️ Reach me via Email: **noempang2@gmail.com**
 
