@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=backdooredcit&label=Profile%20views&color=0e75b6&style=flat" alt="backdooredcit" /> </p>
 
-- 💻 I’m currently working on **WRGTH2026**.
+- 💻 I’m currently working on **a new project**.
 
 - 📖 I’m currently learning about **Hardware**
 
