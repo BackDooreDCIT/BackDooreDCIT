@@ -1,5 +1,5 @@
 <h1 align="center">Hey Coders 👋! I'm Parattakorn Boonprakob</h1>
-<h3 align="center">A High-Schooler from Thailand (🇹🇭) that took an interest in programming 🔥</h3>
+<h3 align="center">A High-Schooler from Thailand (🇹🇭) who took an interest in programming 🔥</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=backdooredcit&label=Profile%20views&color=0e75b6&style=flat" alt="backdooredcit" /> </p>
 
@@ -14,7 +14,7 @@
 - ✉️ Reach me via Email: **noempang2@gmail.com**
 
 - 🏅Some of my achivements:
-  - **WRG Thailand Championship 2025 (1st Runner-Up 🥈 & 3rd Runner-Up 🥉)**
+  - **WRG Thailand Championship 2025 & 2026 (1st Runner-Up 🥈)**
   - **ITCLASH68 & ITCLASH69 Coding Track (Finalists)**
   - **Thailand Cyber Top Talent 2025 (62nd out of 518 Teams & 102nd out of 1319 Individually)**
   - **ToBeIT’69 KMITL (Onsite Camper, 1st Runner-Up 🥈 & Popular Vote 🏆 in Hackathon)**
