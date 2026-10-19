@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=backdooredcit&label=Profile%20views&color=0e75b6&style=flat" alt="backdooredcit" /> </p>
 
-- 💻 I’m currently working on **[AuraTalk](https://github.com/BackDooreDCIT/AuraTalk)**.
+- 💻 I’m currently working on **[deceithome](https://github.com/BackDooreDCIT/deceithome)**.
 
-- 📖 I’m currently learning about **Hardware**
+- 📖 I’m currently learning about **Prompt Engineering**
 
 - 📑 All of my projects are available [here](https://github.com/BackDooreDCIT?tab=repositories)
 
